@@ -1,5 +1,2 @@
-- 👋 Hi, I’m Deepesh Jha
-<!---
-DeepeshKumarJha/DeepeshKumarJha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">Hi 👋, I'm Deepesh Kumar Jha</h1>
+<h3 align="center">A passionate full stack developer from India</h3>
